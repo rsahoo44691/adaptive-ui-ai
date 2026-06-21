@@ -1,0 +1,4 @@
+# Adaptive Content Dashboard -- dependencies
+# Tested with Python 3.9
+gradio==4.44.1
+numpy>=1.23,<3
