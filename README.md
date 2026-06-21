@@ -63,5 +63,5 @@ Open the local URL printed in the terminal (default
 
 ## AI tool disclosure
 
-An AI coding assistant was used to help scaffold and document this project.
-All generated code was reviewed and tested by the author.
+ChatGPT was used to help scaffold and document this project. All generated
+code was reviewed and tested by the author.
