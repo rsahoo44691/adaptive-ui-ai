@@ -10,6 +10,8 @@ focus reading mode when it detects a preference for long-form content.
 Built for the MSAI-631 *Artificial Intelligence for Human-Computer
 Interaction* Week 7 "Adaptive UI using AI" project.
 
+**Repository:** https://github.com/rsahoo44691/adaptive-ui-ai
+
 ## What makes it "adaptive" and "AI-based"
 
 | Layer | Technique |
